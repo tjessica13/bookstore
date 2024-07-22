@@ -29,7 +29,7 @@ const Hero = () => {
 
             <div className="hero__image-container">
                 <div className="hero__image">
-                    <Image src="/pexels-zinep-17910625.jpg" 
+                    <Image src="./pexels-zinep-17910625.jpg" 
                     alt="hero"
                     fill className="object-contain" />
                 </div>

@@ -4,7 +4,7 @@ export const Books = [
         title: "Book Title",
         author: "John Smith",
         year: 2024,
-        img: "/pexels-readymade-3847646.jpg",
+        img: "./pexels-readymade-3847646.jpg",
         price: 24.99,
         href: ""
     },
@@ -13,7 +13,7 @@ export const Books = [
         title: "Book Title",
         author: "John Smith",
         year: 2024,
-        img: "/pexels-readymade-3847646.jpg",
+        img: "./pexels-readymade-3847646.jpg",
         price: 24.99,
         href: ""
     },
@@ -22,7 +22,7 @@ export const Books = [
         title: "Book Title",
         author: "John Smith",
         year: 2024,
-        img: "/pexels-readymade-3847646.jpg",
+        img: "./pexels-readymade-3847646.jpg",
         price: 24.99,
         href: ""
     },
@@ -31,7 +31,7 @@ export const Books = [
         title: "Book Title",
         author: "John Smith",
         year: 2024,
-        img: "/pexels-readymade-3847646.jpg",
+        img: "./pexels-readymade-3847646.jpg",
         price: 24.99,
         href: ""
     }
